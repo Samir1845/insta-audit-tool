@@ -21,15 +21,12 @@ This tool is designed to work smoothly on **Termux (Android)** as well as deskto
 - Python 3.x  
 - Termux (for Android users)  
 - Git  
-
----
-
 ## 📥 Installation
 
 Clone the repository:
 
-```bash
-git clone https://github.com/<your-username>/insta-audit-tool.git
+git clone https://github.com/Samir1845/insta-audit-tool.git
+
 cd insta-audit-tool
 
 ▶️ How to Run

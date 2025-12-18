@@ -1,34 +1,78 @@
-<<<<<<< HEAD
-# Instagram Audit Tool 📊
+# 📊 Insta Audit Tool
 
-A Python-based Instagram profile audit tool that analyzes engagement metrics
-such as likes, comments, posting frequency, and generates a professional PDF report.
+A Python-based Instagram Profile Audit Tool that analyzes engagement metrics such as likes, comments, posting consistency, and generates a **professional PDF audit report**.  
+This tool is designed to work smoothly on **Termux (Android)** as well as desktop systems.
+
+---
 
 ## 🚀 Features
-- Engagement analysis (likes & comments)
-- Profile performance scoring
-- Tier-based traffic insights
-- Professional PDF report generation
-- Works on Termux (Android)
+
+- 📈 Engagement analysis (likes & comments)
+- 🧮 Profile performance scoring
+- 🚦 Tier-based traffic insights (Small / Medium / Large accounts)
+- 📄 Professional & colorful PDF report generation
+- ⚙️ Works on Termux (Android) and Linux
+- 🧠 Logic-based growth observations & recommendations
+
+---
 
 ## 🛠 Requirements
-- Python 3
-- Termux
-- Git
 
-## ▶️ How to Run
+- Python 3.x  
+- Termux (for Android users)  
+- Git  
+
+---
+
+## 📥 Installation
+
+Clone the repository:
+
 ```bash
+git clone https://github.com/<your-username>/insta-audit-tool.git
+cd insta-audit-tool
+
+▶️ How to Run
+
+Run the tool using:
+
 python insta_audit.py
-            
-                '''
-                    Author
-             Samir ahmad ganie
-           form jammu and kashmir 
-                    india   
-      
-       join our telegram channel   
-https://t.me/programmingresources0
-=======
-# insta-audit-tool
-A Python-based Instagram profile audit tool that analyzes engagement, likes, comments, and generates a professional PDF report. Built using Termux.
->>>>>>> fee5d7f2874f788d25ffdfcf08cefff40fad1570
+
+Follow the on-screen prompts to enter profile data and generate the audit report.
+
+📄 Output
+A detailed PDF report is generated automatically
+
+File name format:
+
+username.pdf
+
+The report includes:
+
+Profile summary
+
+Engagement score
+
+Traffic performance overview
+
+Main observations
+
+Growth recommendations
+⚠️ Disclaimer
+This tool does not access private Instagram data.
+All analysis is based on user-provided or publicly available information and logical calculations.
+This project is intended for educational and analytical purposes only.
+
+👤 Author
+Name: Samir
+Location: Jammu & Kashmir India
+🖇️ Join Our Telegram channel: https://t.me/programmingresources0
+
+⭐ Support
+If you find this project useful:
+⭐ Star the repository
+🍴 Fork it
+🛠 Improve it and contribute
+
+📌 License
+This project is open-source and free to use for learning purposes.

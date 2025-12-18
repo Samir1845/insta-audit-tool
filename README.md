@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Instagram Audit Tool 📊
 
 A Python-based Instagram profile audit tool that analyzes engagement metrics
@@ -27,3 +28,7 @@ python insta_audit.py
       
        join our telegram channel   
 https://t.me/programmingresources0
+=======
+# insta-audit-tool
+A Python-based Instagram profile audit tool that analyzes engagement, likes, comments, and generates a professional PDF report. Built using Termux.
+>>>>>>> fee5d7f2874f788d25ffdfcf08cefff40fad1570
